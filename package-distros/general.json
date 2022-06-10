@@ -1,0 +1,90 @@
+{
+    "X11 - X Window System" : {
+        "package-name" : "xorg",
+        "package-desc" : "X11 provides the X11 server for a GUI environment: drawing and moving windows on the display device and interacting with a mouse and keyboard"
+    },
+    "xscreensaver": {
+        "package-name" : "xscreensaver",
+        "package-desc" : "X11's default screen saver"
+    },
+    "Thunar": {
+        "package-name" : "thunar",
+        "package-desc" : "Xfce's file manager"
+    },
+    "PCMan File Manager": {
+        "package-name" : "pcmanfm",
+        "package-desc" : "Lightweight file manager based on GTK"
+    },
+    "PCMan File Manager (Qt)": {
+        "package-name" : "pcmanfm-qy",
+        "package-desc" : "Lightweight PCMan file manager writted with Qt"
+    },
+    "Mirage": {
+        "package-name" : "mirage",
+        "package-desc" : "Lightweight image viewer"
+    },
+    "Connman GTK": {
+        "package-name" : "connman-gtk",
+        "package-desc" : "Connman with GTK frontend"
+    },
+    "VLC": {
+        "package-name" : "vlc",
+        "package-desc" : "Full and stable video / audio player"
+    },
+    "MPV": {
+        "package-name" : "mpv",
+        "package-desc" : "Lightweight video / audio player"
+    },
+    "File Roller": {
+        "package-name" : "file-roller",
+        "package-desc" : "Full and stable GTK file archiver"
+    },
+    "Xarchiver": {
+        "package-name" : "xarchiver",
+        "package-desc" : "Lightweight FOSS file archiver"
+    },
+    "FeatherPad": {
+        "package-name" : "featherpad",
+        "package-desc" : "Lightweight and complete Qt text editor"
+    },
+    "Mousepad": {
+        "package-name" : "mousepad",
+        "package-desc" : "Lightweight GTK text editor for Xfce"
+    },
+    "GNOME Terminal": {
+        "package-name" : "gnome-terminal",
+        "package-desc" : "Terminal emulator based on GTK for GNOME DE"
+    },
+    "Konsole": {
+        "package-name" : "konsole",
+        "package-desc" : "Terminal emulator based on Qt for KDE Plasma"
+    },
+    "Sakura": {
+        "package-name" : "sakura",
+        "package-desc" : "Terminal emulator based on GTK"
+    },
+    "XTerminal": {
+        "package-name" : "xterm",
+        "package-desc" : "X11 Terminal emulator"
+    },
+    "Terminus": {
+        "package-name" : "terminus",
+        "package-desc" : "General Terminal emulator for X11 and Wayland"
+    },
+    "Chromium": {
+        "package-name" : "chromium",
+        "package-desc" : "Open Source Google Chrome implementation"
+    },
+    "Firefox ESR": {
+        "package-name" : "firefox-esr",
+        "package-desc" : "Open Source Firefox ESR edition for Debian"
+    },
+    "BleachBit": {
+        "package-name" : "bleachbit",
+        "package-desc" : "Simple GTK based junk cleaner"
+    },
+    "WineHQ": {
+        "package-name" : "wine",
+        "package-desc" : "Windows emulator for Linux systems"
+    }
+}

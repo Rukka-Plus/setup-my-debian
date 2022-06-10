@@ -1,0 +1,18 @@
+{
+    "GDM" : {
+        "package-name" : "gdm3",
+        "package-desc" : "GNOME Display Manager"
+    },
+    "SDDM" : {
+        "package-name" : "sddm",
+        "package-desc" : "Sucessor of KDM. Recomended for KDE Plasma and LXQt"
+    },
+    "LXDM" : {
+        "package-name" : "lxdm",
+        "package-desc" : "LXDE Display Manager"
+    },
+    "LightDM" : {
+        "package-name" : "lightdm lightdm-gtk-greeter",
+        "package-desc" : "Lightweight cross-desktop Display Manager"
+    }
+}

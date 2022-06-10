@@ -1,0 +1,26 @@
+{
+    "GNOME" : {
+        "package-name" : "gnome",
+        "package-desc" : "The GNOME desktop environment"
+    },
+    "KDE Plasma" : {
+        "package-name" : "kde-plasma-desktop",
+        "package-desc" : "The KDE plasma desktop environment"
+    },
+    "Xfce" : {
+        "package-name" : "xfce4",
+        "package-desc" : "The Xfce desktop environment"
+    },
+    "LXQt" : {
+        "package-name" : "lxqt",
+        "package-desc" : "The lightweight LXQt desktop environment"
+    },
+    "LXDE" : {
+        "package-name" : "lxde",
+        "package-desc" : "The lightweight LXDE desktop environment"
+    },
+    "IceWM" : {
+        "package-name" : "icewm",
+        "package-desc" : "The lightweight IceWM desktop environment"
+    }
+}

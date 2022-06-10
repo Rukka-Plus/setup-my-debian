@@ -1,0 +1,54 @@
+{
+    "build-essential" : {
+        "package-name" : "build-essential",
+        "package-desc" : "Set of basic packages to build and install other packages"
+    },
+    "Git": {
+        "package-name" : "git",
+        "package-desc" : "Git is a version control program"
+    },
+    "Node.js": {
+        "package-name" : "nodejs npm",
+        "package-desc" : "Node.js environment"
+    },
+    "Python 3": {
+        "package-name" : "python3-full",
+        "package-desc" : "Python 3 full environment"
+    },
+    "Ruby": {
+        "package-name" : "ruby-full",
+        "package-desc" : "Ruby language full environment"
+    },
+    "OpenJDK 17": {
+        "package-name" : "openjdk-17-jdk",
+        "package-desc" : "Java OpenJDK development"
+    },
+    "Go": {
+        "package-name" : "golang",
+        "package-desc" : "Google's Go language"
+    },
+    "Mono": {
+        "package-name" : "mono-complete mono-devel",
+        "package-desc" : ".NET Mono environment"
+    },
+    "Rust": {
+        "package-name" : "cargo",
+        "package-desc" : "Rust environment (with Cargo)"
+    },
+    "PHP": {
+        "package-name" : "php",
+        "package-desc" : "PHP language environment"
+    },
+    "Geany": {
+        "package-name" : "geany geany-plugins",
+        "package-desc" : "Small and lightweight IDE"
+    },
+    "CodeLite": {
+        "package-name" : "codelite",
+        "package-desc" : "Lightweight general purpose IDE"
+    },
+    "Bluefish": {
+        "package-name" : "bluefish",
+        "package-desc" : "Lightweight Web IDE"
+    }
+}
